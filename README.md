@@ -1,1 +1,1 @@
-https://polayna.github.io/rsschool-cv/cv
+https://polayna.github.io/rsschool-cv/
