@@ -1,1 +1,1 @@
-# rsschool-cv
+https://polayna.github.io/rsschool-cv/cv
