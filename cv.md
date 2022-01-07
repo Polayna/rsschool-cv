@@ -36,7 +36,5 @@ alert( result );
 
 # English
 B2+
-Polish-A1
-Spanish-A2
 
 
